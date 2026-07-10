@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
