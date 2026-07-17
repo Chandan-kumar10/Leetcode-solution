@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0724-find-pivot-index) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0724-find-pivot-index) |
 ## String
 |  |
