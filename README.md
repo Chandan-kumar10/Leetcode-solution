@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 ## Matrix
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
 |  |
@@ -79,9 +81,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 ## Database
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/1757-recyclable-and-low-fat-products) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
