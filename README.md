@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0485-max-consecutive-ones) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -99,4 +100,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0136-single-number) |
+## Binary Search
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
