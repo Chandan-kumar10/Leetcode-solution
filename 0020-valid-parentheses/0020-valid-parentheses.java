@@ -11,16 +11,15 @@ class Solution {
                 if(stack.isEmpty()){
 
                  return false;
-                 
+
                 }
 
                 char top = stack.pop();
 
-                if(c== ')' && top != '(') return false;
+                if(c== ')' && top != '(' || c== '}' && top != '{' || c == ']' && top != '['){
+                 return false;
 
-                if(c== '}' && top != '{') return false;
-
-                if(c == ']' && top != '[')  return false;
+                }
             }
 
         }
@@ -29,6 +28,6 @@ class Solution {
     
     }
 
-    
     }
+    
     
