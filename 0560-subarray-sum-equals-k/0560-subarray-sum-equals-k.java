@@ -1,5 +1,6 @@
 class Solution {
     public int subarraySum(int[] nums, int k) {
+
         int n = nums.length;
         int count = 0;
 
@@ -8,15 +9,13 @@ class Solution {
 
             for(int j = i; j<n; j++){
                 currentsum += nums[j];
-
-                if(currentsum == k){
-                    count++;
-                }
-            }
             
+
+            if(currentsum == k){
+                count++;
+            }
+        }
         }
         return count;
-
-        
     }
 }
