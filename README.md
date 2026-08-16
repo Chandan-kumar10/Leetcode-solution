@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0075-sort-colors) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
