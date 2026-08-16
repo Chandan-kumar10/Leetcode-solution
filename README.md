@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Sliding Window
 |  |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0070-climbing-stairs) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0020-valid-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
