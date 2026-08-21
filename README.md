@@ -167,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0070-climbing-stairs) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
