@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0511-game-play-analysis-i) |
 | [0550-game-play-analysis-iv](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0550-game-play-analysis-iv) |
 | [0584-find-customer-referee](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0584-find-customer-referee) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1587-bank-account-summary-ii](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/1587-bank-account-summary-ii) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/1633-percentage-of-users-attended-a-contest) |
