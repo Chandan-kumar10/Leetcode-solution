@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0283-move-zeroes) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0200-number-of-islands) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,14 +90,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0547-number-of-provinces) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
