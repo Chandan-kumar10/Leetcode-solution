@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0724-find-pivot-index) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0594-longest-harmonious-subsequence](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3731-find-missing-elements](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/3731-find-missing-elements) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0070-climbing-stairs) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
