@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3731-find-missing-elements](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/3731-find-missing-elements) |
+| [3903-smallest-stable-index-i](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0724-find-pivot-index) |
+| [3903-smallest-stable-index-i](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
 | ------- |
