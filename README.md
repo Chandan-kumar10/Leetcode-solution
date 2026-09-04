@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3731-find-missing-elements](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
