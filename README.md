@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1693-daily-leads-and-partners](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/1693-daily-leads-and-partners) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/1757-recyclable-and-low-fat-products) |
+| [1890-the-latest-login-in-2020](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/1890-the-latest-login-in-2020) |
 ## Queue
 |  |
 | ------- |
