@@ -23,8 +23,8 @@ class Solution {
                     matrix[i][j] = 0;
                 }
             }
-        }
+        } 
         
-        
+               
     }
 }
