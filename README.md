@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0046-permutations](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0075-sort-colors) |
@@ -208,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0169-majority-element) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
