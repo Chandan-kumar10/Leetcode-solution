@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
