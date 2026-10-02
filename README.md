@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0120-triangle) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 ## Memoization
 |  |
 | ------- |
@@ -216,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0046-permutations) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
