@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0075-sort-colors) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0200-number-of-islands) |
 ## Two Pointers
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
