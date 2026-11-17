@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0680-valid-palindrome-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Greedy
@@ -256,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/1114-print-in-order) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
