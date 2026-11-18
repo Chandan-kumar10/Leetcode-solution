@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Greedy
 |  |
 | ------- |
