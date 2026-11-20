@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3731-find-missing-elements](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3903-smallest-stable-index-i](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/3903-smallest-stable-index-i) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3731-find-missing-elements](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0152-maximum-product-subarray) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Sliding Window
 |  |
 | ------- |
