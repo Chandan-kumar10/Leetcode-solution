@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3731-find-missing-elements](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3903-smallest-stable-index-i](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/3903-smallest-stable-index-i) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3731-find-missing-elements](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Matrix
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Greedy
 |  |
 | ------- |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0547-number-of-provinces) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -268,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Tree
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/3331-find-subtree-sizes-after-changes) |
 <!---LeetCode Topics End-->
