@@ -4,27 +4,26 @@ class Solution {
         int rows = matrix.length;
         int cols = matrix[0].length;
 
-        HashSet<Integer>row = new HashSet<>();
-        HashSet<Integer>col = new HashSet<>();
+        HashSet<Integer> row = new HashSet<>();
+        HashSet<Integer> col = new HashSet<>();
 
-        for(int i = 0; i < rows; i++){
-            for(int j = 0; j < cols; j++){
+        for (int i = 0; i < rows; i++) {
+            for (int j = 0; j < cols; j++) {
 
-                if(matrix[i][j] == 0){
+                if (matrix[i][j] == 0) {
                     row.add(i);
                     col.add(j);
                 }
             }
         }
 
-        for(int i = 0; i<rows; i++){
-            for(int j = 0; j<cols; j++){
-                if(row.contains(i) || col.contains(j)){
+        for (int i = 0; i < rows; i++) {
+            for (int j = 0; j < cols; j++) {
+                if (row.contains(i) || col.contains(j)) {
                     matrix[i][j] = 0;
                 }
             }
-        } 
-        
-               
+        }
+
     }
 }
