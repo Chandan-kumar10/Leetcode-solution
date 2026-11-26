@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0053-maximum-subarray) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Chandan-kumar10/Leetcode-solution/tree/master/0217-contains-duplicate) |
